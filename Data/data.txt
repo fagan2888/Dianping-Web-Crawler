@@ -1,4 +1,0 @@
-urls.json
-restaurants.json
-comments.json
-users.json
