@@ -1,4 +1,4 @@
-# Web-Crawler-Dianping #
+# Dianping-Web-Crawler #
 
 ## Introduction ##
 Everyone knows that China is an extremely gastronomic-centric culture where much time and effort is put into finding the best restaurants. For foodies in China, many of them turn to [Dianping](http://www.dianping.com/) (full name: Dazhongdianping), a Chinese Internet company that provides services of “online consumer guide”, covering more than 500,000 restaurants in over 300 cities in China. On the website, consumers can share their experiences on food by giving reviews and rating.
